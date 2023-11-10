@@ -1,6 +1,6 @@
 Lucija ima x pobjeda i y poraza!
 Rino ima z pobjda i n poraza!
 
-.  .  .
+o  .  .
 .  .  .
 .  .  .
