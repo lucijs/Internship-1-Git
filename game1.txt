@@ -3,4 +3,4 @@ Rino ima z pobjda i n poraza!
 
 o  X  o
 .  X  .
-.  .  .
+.  X  .
