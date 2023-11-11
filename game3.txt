@@ -1,7 +1,7 @@
 Lucija ima 0 pobjeda i 2 poraza!
 Rino ima 2 pobjda i 0 poraza!
 
-.  .  X
+o  .  X
 o  .  X
 o  .  X
 
